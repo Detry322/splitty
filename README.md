@@ -1,0 +1,2 @@
+# splitty
+Split receipts.
